@@ -1,0 +1,11 @@
+1.  Install  file  minernya 
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz 
+
+2.masuk  ke  dalam  folde  minernya 
+tar  xf  cpuminer-opt-linux.tar.gz 
+
+3.  Jalankan  minernya 
+./cpuminer-sse2  -a  power2b  -o  stratum+tcp://stratum-asia.rplant.xyz:7022  -u BZ2FDuNtCfwCSQxHvW43W6tkMaQLLSKHUW.Denzi21  -t8 
+
+4.Cek  
+hasil  miningnya https://pool.rplant.xyz/ 
